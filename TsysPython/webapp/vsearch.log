@@ -1,0 +1,4 @@
+ImmutableMultiDict([('phrase', 'Goodluck'), ('letters', 'aeiou')])|127.0.0.1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36|{'u', 'o'}
+ImmutableMultiDict([('phrase', 'Hello'), ('letters', 'i')])|127.0.0.1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36|set()
+ImmutableMultiDict([('phrase', 'byebye'), ('letters', 'f')])|127.0.0.1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36|set()
+ImmutableMultiDict([('phrase', 'fg hjghjghjjytutyedfgj'), ('letters', 'aeiou')])|127.0.0.1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36|{'e', 'u'}
